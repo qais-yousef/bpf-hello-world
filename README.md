@@ -18,6 +18,8 @@ Override `ARCH` which is set to arm64 by default.
 make ARCH=x86
 ```
 
+CROSS_COMPILE not supported yet.
+
 ### clean
 
 ```
